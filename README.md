@@ -1,2 +1,2 @@
 # xfrstatus
-Aggregated status for several things we care about
+Aggregated status for status monitoring for services our team cares about. 
